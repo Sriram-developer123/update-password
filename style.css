@@ -1,0 +1,22 @@
+.container {
+    background-image: linear-gradient(#f788c0, #b134eb);
+    height: 100vh;
+    padding: 30px;
+}
+
+.heading {
+    color: white;
+    text-align: center;
+
+}
+
+.label-heading {
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.eror-msg {
+    color: red;
+    font-weight: bold;
+}
